@@ -1,6 +1,5 @@
-## Stock-Price-Prediction 
-# Predict stock prices up or down using classification models like Random Forest, K-nearest neighbors algorithm, Logistic Regression (based on R)
-# Compare and refine models
+# Stock-Price-Prediction 
+## Predict stock prices up or down using classification models like Random Forest, K-nearest neighbors algorithm, Logistic Regression (based on R) and ompare and refine models
 # Members list:
 | ID Student | Full Name |
 | --- | ----------- |
